@@ -42,3 +42,5 @@ You can install them by running:
 ```bash
 pip install pandas numpy scikit-learn nltk matplotlib  
 ```
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
