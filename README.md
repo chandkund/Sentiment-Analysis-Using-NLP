@@ -29,7 +29,7 @@ The dataset includes the following key columns:
 
 ## ⚙️ Requirements
 
-To run the project, you will need the following Python libraries:
+To run the project, you will need the following Python libraries: 
 
 - pandas 🐼
 - numpy 🔢
@@ -37,8 +37,8 @@ To run the project, you will need the following Python libraries:
 - nltk 🌐
 - matplotlib 📊
 
-You can install them by running:
+You can install them by running:  
 
 ```bash
-pip install pandas numpy scikit-learn nltk matplotlib
+pip install pandas numpy scikit-learn nltk matplotlib  
 ```
