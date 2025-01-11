@@ -10,7 +10,7 @@ The primary goal of this project is to classify the sentiment (positive, negativ
  
 The dataset includes the following key columns:
 - **📝 reviewerName**: Name of the reviewer.
-- **⭐ overall**: Product rating provided by the reviewer (1 to 5). 
+- **⭐ overall**: Product rating provided by the reviewer (1 to 5).  
 - **💬 reviewText**: The text of the review, which will be used for sentiment analysis. 
 - **📅 reviewTime**: Date when the review was written.
 - **📉 day_diff**: Difference in days between the review date and the analysis date.
