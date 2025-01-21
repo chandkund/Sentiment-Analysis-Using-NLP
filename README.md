@@ -4,7 +4,7 @@
 
 This repository contains code and data for performing **Sentiment Analysis** on product reviews. The analysis focuses on extracting and analyzing sentiments from user-written product reviews, using only the "reviewText" column.
 
-The primary goal of this project is to classify the sentiment (positive, negative, or neutral) conveyed in the review text. This can be useful for gaining insights into customer opinions and improving business decision-making. 🛠️
+The primary goal of this project is to classify the sentiment (positive, negative, or neutral) conveyed in the review text. This can be useful for gaining insights into customer opinions and improving business decision-making. 🛠️ 
  
 ## 📁 Dataset
  
