@@ -13,7 +13,7 @@ The dataset includes the following key columns:
 - **⭐ overall**: Product rating provided by the reviewer (1 to 5).    
 - **💬 reviewText**: The text of the review, which will be used for sentiment analysis.     
 - **📅 reviewTime**: Date when the review was written.  
-- **📉 day_diff**: Difference in days between the review date and the analysis date.   
+- **📉 day_diff**: Difference in days between the review date and the analysis date.    
 - **👍 helpful_yes**: Number of helpful votes the review received.  
 - **👎 helpful_no**: Number of non-helpful votes the review received. 
 - **📊 total_vote**: Total votes (helpful + non-helpful).
