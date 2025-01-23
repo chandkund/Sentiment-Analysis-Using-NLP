@@ -15,7 +15,7 @@ The dataset includes the following key columns:
 - **📅 reviewTime**: Date when the review was written.  
 - **📉 day_diff**: Difference in days between the review date and the analysis date.   
 - **👍 helpful_yes**: Number of helpful votes the review received.  
-- **👎 helpful_no**: Number of non-helpful votes the review received.
+- **👎 helpful_no**: Number of non-helpful votes the review received. 
 - **📊 total_vote**: Total votes (helpful + non-helpful).
 - **⚖️ score_pos_neg_diff**: Difference between helpful and non-helpful votes.
 - **📈 score_average_rating**: Average rating based on helpful votes.
